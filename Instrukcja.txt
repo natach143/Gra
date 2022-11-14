@@ -1,0 +1,4 @@
+Grę obsługuje się za pomocą spacji.
+By zagrać jeszcze raz, po wyświetleniu się napisu "Game Over"
+należy nacisnąć ponownie spację. 
+ 
